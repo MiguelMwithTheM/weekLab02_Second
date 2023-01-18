@@ -19,6 +19,8 @@ public class ProjectPushTest {
         // TODO code application logic here
         double num = Math.round(Math.random());
         
+        System.out.println("Is there a banan?");
+        
         if (num == 0) {
             System.out.println("Not Banan");
         } else {
